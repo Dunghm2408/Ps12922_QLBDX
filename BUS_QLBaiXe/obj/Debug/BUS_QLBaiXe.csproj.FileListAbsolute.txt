@@ -1,0 +1,6 @@
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\BUS_QLBaiXe\bin\Debug\BUS_QLBaiXe.dll
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\BUS_QLBaiXe\bin\Debug\BUS_QLBaiXe.pdb
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\BUS_QLBaiXe\obj\Debug\BUS_QLBaiXe.csprojAssemblyReference.cache
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\BUS_QLBaiXe\obj\Debug\BUS_QLBaiXe.csproj.CoreCompileInputs.cache
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\BUS_QLBaiXe\obj\Debug\BUS_QLBaiXe.dll
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\BUS_QLBaiXe\obj\Debug\BUS_QLBaiXe.pdb

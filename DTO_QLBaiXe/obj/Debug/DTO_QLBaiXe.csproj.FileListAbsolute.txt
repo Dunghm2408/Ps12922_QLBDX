@@ -1,0 +1,6 @@
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\DTO_QLBaiXe\bin\Debug\DTO_QLBaiXe.dll
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\DTO_QLBaiXe\bin\Debug\DTO_QLBaiXe.pdb
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\DTO_QLBaiXe\obj\Debug\DTO_QLBaiXe.csprojAssemblyReference.cache
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\DTO_QLBaiXe\obj\Debug\DTO_QLBaiXe.csproj.CoreCompileInputs.cache
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\DTO_QLBaiXe\obj\Debug\DTO_QLBaiXe.dll
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\DTO_QLBaiXe\obj\Debug\DTO_QLBaiXe.pdb

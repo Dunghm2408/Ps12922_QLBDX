@@ -1,0 +1,18 @@
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\bin\Debug\GUI_QLBaiXe.exe.config
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\bin\Debug\GUI_QLBaiXe.exe
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\bin\Debug\GUI_QLBaiXe.pdb
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.csprojAssemblyReference.cache
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.Properties.Resources.resources
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.csproj.GenerateResource.cache
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.csproj.CoreCompileInputs.cache
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.exe
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.pdb
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.Frm_Main.resources
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.Frm_NhanVien.resources
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.Frm_LoaiXe.resources
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.Frm_TheXe.resources
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.frm_XeVao.resources
+C:\Users\Navteiv\Desktop\Project 1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.frm_XeRa.resources
+C:\Users\asus\OneDrive\Máy tính\Full FPT\DuAn1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.csprojAssemblyReference.cache
+C:\Users\asus\OneDrive\Máy tính\Full FPT\DuAn1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.exe
+C:\Users\asus\OneDrive\Máy tính\Full FPT\DuAn1\QuanLyBaiXe_Nhom1\GUI_QLBaiXe\obj\Debug\GUI_QLBaiXe.pdb
